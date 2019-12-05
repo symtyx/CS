@@ -1,0 +1,58 @@
+LOCUS       DM010924                1695 bp    DNA     linear   PAT 27-FEB-2009
+DEFINITION  Selection method for dogs suitable to guide dogs.
+ACCESSION   DM010924
+VERSION     DM010924.1
+KEYWORDS    JP 2008194016-A/1.
+SOURCE      Canis
+  ORGANISM  Canis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae.
+REFERENCE   1  (bases 1 to 1695)
+  AUTHORS   Suzuki,H. and Ueda,Y.
+  TITLE     Selection method for dogs suitable to guide dogs
+  JOURNAL   Patent: JP 2008194016-A 1 28-AUG-2008;
+            Obihiro University of Agriculture and Veterinary Medicine
+COMMENT     OS   Canis
+            PN   JP 2008194016-A/1
+            PD   28-AUG-2008
+            PF   16-FEB-2007 JP 2007035628
+            PI   hiroshi suzuki,yoshiko ueda
+            CC
+            FH   Key             Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1695
+                     /organism="Canis"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9611"
+ORIGIN      
+        1 atgcccaagc aggtggaagt acgaatgcac gacagccatc tcagctcaga ggagccgaag
+       61 caccgacatc taggcctgcg tctgtgtgac aagctgggga agaacctcct gctcacattg
+      121 actgtgttcg gtgtcatcct gggggcagta tgtggagggc ttcttcgctt ggcatctcct
+      181 ctccaccccg atgtggtcat gttgatagcc ttcccagggg atatactcat gaggatgcta
+      241 aaaatgctca ttctccctct catcatctcc agcttaatca cagggttgtc gggcctggat
+      301 gctaaagcca gtgggcgctt aggcacaaga gccatggtgt attacatgtc cacaaccata
+      361 attgccgcgg tgttgggggt catcctggtc ttggctatcc acccagggaa ccccaaactc
+      421 aagaagcagc tgggacctgg gaagaagaat gatgaagtgt ccagcctgga ygccttcctg
+      481 gatcttattc gaaatctctt tcctgaaaac ctggtccaag cctgttttca acagattcaa
+      541 acggtgacca agaaagtcct ggtggctcct ccatcagatg aggacagcaa tgccaccaat
+      601 gctgtcatct ccttattgaa cgagactgtg acggaggccc ctgaagaagt gaaggtggtt
+      661 atcaagaagg gcctggagtt caaggatggc atgaatgtct taggtctgat agggtttttc
+      721 attgcttttg gcatcgccat ggggaagatg ggagagcagg ccaagctgat ggtggagttc
+      781 ttcaacattt tgaatgagat tgtaatgaag ttagtgatca tgatcatgtg gtactctccc
+      841 ctgggtattg cctgcctaat ttgtggaaag atcattgcaa tcaaggactt agaagtggtt
+      901 gctaggcaac tggggatgta catgatcacg gtgattgtgg gcctcatcat ccatgggggc
+      961 atctttctcc ccttgattta ctttctagtc accaggaaaa accctttctc ctttttcgct
+     1021 ggcattttcc aagcttggat cactgccctg ggtaccgctt ccagtgccgg aactttgcct
+     1081 gtcactttcc gttgcctgga agaaaatctg gggattgata agcgcgtgac cagatttgtc
+     1141 ctcccagtgg gagcaaccat caacatggac ggcacagccc tttatgaagc agtggccgcc
+     1201 atctttattg cccaaatgaa cggtgttatc ctggacggag gccagattgt gactgtgagc
+     1261 ctcacggcca cgctggcgag cgtcggtgcg gccagtatcc ccagcgcagg cctcgtcacc
+     1321 atgctcctca tcctgacggc tgtgggcctg ccaacggagg acatcagcct gctggtggct
+     1381 gtggactggc tgctggacag gatgagaact tcagtcaatg tggtggggga ctcatttggg
+     1441 gctgggattg tctatcacct ctccaagtct gagctggata ctattgactc ccagcatcga
+     1501 gtgcatgaag atattgaaat gaccaagact cagtccattt atgatgtgaa gaaccttagg
+     1561 gaaagcaact ctaatcaatg tgtctatgcc gcacacaact ctgtcatagt agatgagtgc
+     1621 aaggtaactc tggcagccaa cggaaagtca gccgactgtg gtgttgaaga agaaccttgg
+     1681 aaacgtgaaa aataa
+//
+

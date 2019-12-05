@@ -1,0 +1,68 @@
+LOCUS       BV682946                 243 bp    DNA     linear   STS 19-JUL-2006
+DEFINITION  136C6sp6 CH250 Macaque Male BAC Library, genomic fragment clones
+            Rhesus macaque STS genomic, sequence tagged site.
+ACCESSION   BV682946
+VERSION     BV682946.1
+KEYWORDS    STS.
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 243)
+  AUTHORS   Antonacci,F., Archidiacono,N., Eichler,E.E., Rocchi,M. and
+            Ventura,M.
+  TITLE     Expansion pattern of the evolutionary neocentromere of macaque
+            chromosome 6
+  JOURNAL   Unpublished
+COMMENT     
+            Contact: Antonacci F.
+            Department of Genetics and Microbiology (DIGEMI)
+            University of Bary
+            Via Amendola, 165/A, Bari, ITALY
+            Fax: 39 080 544 3386
+            Email: francesca.antonacci@biologia.uniba.it
+            Primer A: TCTCCACGTGATTTTTACATGC
+            Primer B: CAGATGAACATGGCAAACAGA
+            STS size: 243
+            PCR Profile:
+                    Presoak:          0 degrees C for 0.00 minute(s)
+                    Denaturation:    94 degrees C for 0.50 minute(s)
+                    Annealing:       59 degrees C for 1.00 minute(s)
+                    Polymerization:  72 degrees C for 1.00 minute(s)
+                    PCR Cycles:      30
+                    Thermal Cycler: Perkin Elmer TC
+            Protocol:
+                Template: 30-100 ng
+                Primer: 0.2 uM each
+                dNTPs: 0.2 mM each
+                Taq DNA Pol: 0.02 units/ul
+                Total Vol: 50 ul
+            
+            Buffer:
+                MgCl2:        1.5 mM
+                KCl:           50 mM
+                Tris-HCl:      20 mM
+                pH:             8.4.
+FEATURES             Location/Qualifiers
+     source          1..243
+                     /organism="Macaca mulatta"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9544"
+                     /clone_lib="CH250 Macaque Male BAC Library, genomic
+                     fragment clones"
+                     /lab_host="E.Coli (DH10B-T1 resistant, electrocompetent
+                     cells)"
+                     /note="Vector: pTARBAC2.1; V-type: BAC; source preparation
+                     method at http://bacpac.chori.org/rhesus250.htm"
+     STS             1..243
+     primer_bind     1..22
+     primer_bind     complement(223..243)
+ORIGIN      
+        1 tctccacgtg atttttacat gcataaaagg acagtagttt agaatagaaa aggaatattt
+       61 ttatgcacct tcagttgttt tagtctaact ccccttaaaa tttccaacat aattcacctt
+      121 cacatgaaac tggataagat gaaaatctga attcacttta aaagaaaaga gtcaaaaagg
+      181 catttatgta tttgattatt aaattgaaaa catcaaattc tatctgtttg ccatgttcat
+      241 ctg
+//
+

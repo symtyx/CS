@@ -1,0 +1,72 @@
+def extract_title(filename1):
+	title = ''
+	filename1 = open(filename1)
+	everything = filename1.read()
+	words = everything.split()
+	
+	index = 0
+
+	while words[index] != words[-1]:
+		if words[index] == "TITLE":
+			while words[index] != "JOURNAL":
+				if words[index] == "TITLE":
+					index += 1
+				title += words[index]
+				title += " "
+				index += 1   
+			title = title.strip()
+			return title
+		else:
+			index += 1
+	filename1.close()
+
+def extract_organism(filename1):
+	filename1 = open(filename1)
+	everything = filename1.read()
+	words = everything.split()
+	title = []
+	title2 = []
+	index = 0
+
+	while words[index] != words[-1]:
+		if words[index] == "SOURCE":
+			while words[index] != "ORGANISM":
+				temp2 = []
+				if words[index] == "SOURCE":
+					index += 1
+				temp2.append(words[index])     
+				index += 1  
+				title2.extend(temp2)
+		else:
+			index += 1
+	index = 0
+	while words[index] != words[-1]:
+		if words[index] == "ORGANISM":
+			while words[index] != "REFERENCE":
+				temp = []
+				if words[index] == "ORGANISM":
+					index += 1
+				temp.append(words[index])     
+				index += 1  
+				title.extend(temp)
+			
+			
+			while title[0] == title2[0]: 
+				if title[0] == title2[0]:
+					title.remove(title[0])
+					title2.remove(title2[0])
+					
+						
+				
+			title = [(x.strip(";")) for x in title]
+			title = [(x.strip(".")) for x in title]
+			return title
+			
+		else:
+			index += 1
+
+	filename1.close()
+
+	
+
+

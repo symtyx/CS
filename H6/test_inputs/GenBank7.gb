@@ -1,0 +1,82 @@
+LOCUS       NM_001206765             945 bp    mRNA    linear   MAM 04-JAN-2015
+DEFINITION  Bos taurus olfactory receptor-like (LOC519282), mRNA.
+ACCESSION   NM_001206765 XM_002707872 XM_597498
+VERSION     NM_001206765.1
+KEYWORDS    RefSeq.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (bases 1 to 945)
+  AUTHORS   Zimin,A.V., Delcher,A.L., Florea,L., Kelley,D.R., Schatz,M.C.,
+            Puiu,D., Hanrahan,F., Pertea,G., Van Tassell,C.P., Sonstegard,T.S.,
+            Marcais,G., Roberts,M., Subramanian,P., Yorke,J.A. and
+            Salzberg,S.L.
+  TITLE     A whole-genome assembly of the domestic cow, 
+               Bos taurus 
+  JOURNAL   Genome Biol. 10 (4), R42 (2009)
+   PUBMED   19393038
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from AAFC03106677.1.
+            On or before May 6, 2011 this sequence version replaced
+            XM_597498.4, XM_002707872.1.
+            
+            Sequence Note: This RefSeq record was created from genomic sequence
+            data. There are no cow transcripts representing this gene; the
+            genomic coordinates used for the transcript record were predicted
+            based on homologous alignment with mouse NP_666895.1 and human
+            NP_001004729.1.
+            
+            ##Evidence-Data-START##
+            RNAseq introns :: single sample supports all introns SAMN01093754,
+                              SAMN02404548 [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-945               AAFC03106677.1     28503-29447
+FEATURES             Location/Qualifiers
+     source          1..945
+                     /organism="Bos taurus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9913"
+                     /chromosome="15"
+                     /map="15"
+                     /breed="Hereford"
+     gene            1..945
+                     /gene="LOC519282"
+                     /note="olfactory receptor-like"
+                     /db_xref="BGD:BT23798"
+                     /db_xref="GeneID:519282"
+     CDS             1..945
+                     /gene="LOC519282"
+                     /codon_start=1
+                     /product="olfactory receptor-like"
+                     /protein_id="NP_001193694.1"
+                     /db_xref="BGD:BT23798"
+                     /db_xref="GeneID:519282"
+                     /translation="MAGGRNSTTITEFILLGFSEFPQLTAVLFSIFLGIYLVTVSWNL
+                     GLIAVIRMDSRLHTPMYFFLSNLSLLDTCYISIIAPRMLSDFFRKHKLISFTGCIMQY
+                     FLFSSLGLTECSLLAAMAYDRYVAICSPLLYTATMCPSLCVQMVAGSCVTGFLGSFIQ
+                     LCALLQLHFCGPNIINHFFCDLPQLLTLSCSDTLFFQVMTSVLTVIFGLMSVLVIMIS
+                     YGYIVATIVKITSAEGRSKAFNTCASHLTAVTLFFGSGIFVYMYPNSGGSSSQSKLAS
+                     VLYTVIIPMLNPLIYSLRNKEIKDALSIRKKKLFSWCY"
+ORIGIN      
+        1 atggctggag gaaggaacag tacgacaatc acagagttta tcctcttggg gttctctgag
+       61 tttccacagc tcaccgctgt cctcttttca atattcctag ggatctacct ggtgacagtg
+      121 tcttggaacc tgggactcat cgccgtcatc aggatggact cccgtttgca cacgcctatg
+      181 tacttcttcc tcagtaacct gtccttgctg gacacttgct atatatccat catagctcct
+      241 agaatgctct cagacttctt caggaagcat aaactcatct cctttacggg gtgcatcatg
+      301 cagtacttct tgttctctag cctgggcctg actgagtgca gtctgctggc ggccatggct
+      361 tatgatcgct acgtcgccat ttgcagtcct ctgctctaca cagccaccat gtgcccctct
+      421 ctctgcgtgc agatggtggc aggatcttgt gtaactggat tccttggctc gttcattcag
+      481 ttgtgtgcct tacttcagct ccacttctgt ggaccaaaca tcatcaacca tttcttctgt
+      541 gacctgcccc aactgctaac cctatcctgc tcggacacct tgttctttca agtcatgaca
+      601 tctgtgctca cagtcatctt tgggctcatg tctgtcttgg ttatcatgat atcctatggt
+      661 tacattgtcg ccaccattgt gaagatcact tcagctgaag gccggtccaa agccttcaac
+      721 acttgtgctt ctcacctgac agcagtgacc ctcttctttg gctcgggtat ctttgtttat
+      781 atgtatccta attctggcgg ttcctcgagc caaagcaagc tggcatctgt cttgtacact
+      841 gttataatcc ccatgctaaa tccattgatc tatagcttga ggaacaaaga aatcaaagat
+      901 gccctaagca tacggaagaa gaaactcttt tcctggtgtt 
+//
+

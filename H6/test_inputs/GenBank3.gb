@@ -1,0 +1,48 @@
+LOCUS       FS943334                 609 bp    mRNA    linear   EST 04-OCT-2017
+DEFINITION  FS943334 Siamese Crocodile cDNA library Crocodylus siamensis cDNA
+            clone Cs_aB_024_A14, mRNA sequence.
+ACCESSION   FS943334
+VERSION     FS943334.1
+DBLINK      BioSample: SAMN07738750
+KEYWORDS    EST.
+SOURCE      Crocodylus siamensis (Siamese crocodile)
+  ORGANISM  Crocodylus siamensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Crocodylia; Longirostres; Crocodylidae;
+            Crocodylus.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Uno,Y., Nishida,C., Tarui,H., Ishishita,S., Takagi,C.,
+            Nishimura,O., Ishijima,J., Ota,H., Kosaka,A., Matsubara,K.,
+            Murakami,Y., Kuratani,S., Ueno,N., Agata,K. and Matsuda,Y.
+  TITLE     Inference of the protokaryotypes of amniotes and tetrapods and the
+            evolutionary processes of microchromosomes from comparative gene
+            mapping
+  JOURNAL   PLoS ONE 7 (12), E53027 (2012)
+   PUBMED   23300852
+COMMENT     Contact: Kiyokazu Agata
+            Genome Resource and Analysis Subunit
+            RIKEN Center for Developmental Biology
+            2-2-3 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Crocodylus siamensis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:68455"
+                     /clone="Cs_aB_024_A14"
+                     /tissue_type="brain"
+                     /clone_lib="SAMN07738750 Siamese Crocodile cDNA library"
+                     /dev_stage="adult"
+ORIGIN      
+        1 tattttattc tgataatcgg ctgaatgtaa cagaggaact aacatctaat aacaggacaa
+       61 gaattctgaa tgtccagtcc aggcttacag atgccaaaca cattagttgg agagcagtgt
+      121 tgaacaacaa caacctctat attgaaattc ccagtggtgc tctgcctgaa gggagcaaag
+      181 acagttttgc agttctttta gaatttgctg aagaacagct tcaagttgat catgtcttca
+      241 tatgtttcca caagaataga gatgacagag ctgcattact ccgaactttc agctttttgg
+      301 gctttgagat tgtgagacca gggcatcccc ttgtccccaa gagaccagat gcttgcttca
+      361 tggcctacac gtttgagaga gactcttctg aagaagaata gattgcaatg tttgcctctt
+      421 tagagctttc ctgttgttta tgaagatgaa tatgtagaaa ttttgtcaac atcttttaca
+      481 atgcatagaa ttgtttgtac aaaatgttgt gaccaactgc ttgggcgggg agatgttgaa
+      541 aatttcagac ttcatcatct tttctggatt tgtgcgcatg ttgtgattgt gcaaataaat
+      601 gctcactcc
+//
+

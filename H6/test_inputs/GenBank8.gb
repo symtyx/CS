@@ -1,0 +1,73 @@
+LOCUS       AJ621748                 806 bp    mRNA    linear   INV 26-JUL-2016
+DEFINITION  Tribolium castaneum partial mRNA for zinc finger transcription
+            factor (eagle gene).
+ACCESSION   AJ621748
+VERSION     AJ621748.1
+KEYWORDS    eagle gene; zinc finger transcription factor.
+SOURCE      Tribolium castaneum (red flour beetle)
+  ORGANISM  Tribolium castaneum
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Coleoptera; Polyphaga;
+            Cucujiformia; Tenebrionidae; Tenebrionidae incertae sedis;
+            Tribolium.
+REFERENCE   1
+  AUTHORS   Bucher,G. and Klingler,M.
+  TITLE     Anterior 
+  localization 
+  of 
+  maternal 
+  mRNAs 
+  preceded 
+  the 
+  evolution 
+  of
+            bicoid
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 806)
+  AUTHORS   Bucher,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JAN-2004) Bucher G., Department 2, Ludwig Maximilians
+            Universitaet, Luisenstrasse 14, 80333 Muenchen, GERMANY
+FEATURES             Location/Qualifiers
+     source          1..806
+                     /organism="Tribolium castaneum"
+                     /mol_type="mRNA"
+                     /strain="San Bernardino"
+                     /db_xref="taxon:7070"
+     gene            1..>806
+                     /gene="eagle"
+     5'UTR           1..121
+                     /gene="eagle"
+     CDS             122..>806
+                     /gene="eagle"
+                     /codon_start=1
+                     /product="zinc finger transcription factor"
+                     /protein_id="CAF21851.1"
+                     /db_xref="GOA:Q703I8"
+                     /db_xref="HSSP:1KB2"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="UniProtKB/TrEMBL:Q703I8"
+                     /translation="MNQLCKVCGEPAAGFHFGAFTCEGCKSFFGRTYNNISSISECKN
+                     NGECVINKKNRTACKACRLRKCLLVGMSKSGSRYGRRSNWFKIHCLLQEQQQAGANMA
+                     AAANLLRPHPYLSPLFHSAAPRTASRETKSSESDSGASSADPDDELRSSSAFSYIKPS
+                     SERDYFSVKKLPSPASDSECFDRRKFISALVNAPSVSPASLPSISPSGGFLPKWLPPL
+                     QGFSDPSAWR"
+ORIGIN      
+        1 ggtgtagaga agctgatcag tacctgtgtg tgcgacttac ctactgctcg ctgatgagat
+       61 gaatcgcgat ctgtgaagtt cggaatgttg cgctgcccga gccacatatc cttacagaaa
+      121 gatgaaccag ctgtgcaagg tctgcggaga gccagcggcc ggattccact ttggagcttt
+      181 tacctgcgag ggatgcaagt ccttcttcgg tcgaacgtac aacaatatca gctcaatatc
+      241 ggaatgcaaa aacaacggcg aatgtgtgat caacaaaaaa aatcggacag cttgcaaagc
+      301 atgccgctta agaaagtgcc ttttggtcgg tatgtcgaaa agtgggtctc gttacggccg
+      361 ccgctccaac tggttcaaga tccactgcct cctgcaggag cagcagcagg ccggcgccaa
+      421 catggcggcg gcggctaacc tcctgcgccc gcacccctac ctgtcgccgc tcttccacag
+      481 cgccgccccc aggacggcct cccgcgagac caagagctcg gagtcggaca gcggcgcctc
+      541 ctcggccgac cccgacgacg agctgcgctc ctccagcgcc ttcagctaca tcaagccctc
+      601 cagcgagcgc gactacttct ccgtgaaaaa actgccgtct ccggcgagtg atagtgagtg
+      661 cttcgataga cggaaattta ttagtgcatt agtcaacgct ccttccgtgt ctccggcctc
+      721 tctgccctcg atctccccca gcggcggctt cctgcccaag tggctgccgc cgctgcaggg
+      781 cttcagcgac ccctcggcct g 
+//
+

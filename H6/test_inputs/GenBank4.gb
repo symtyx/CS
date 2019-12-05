@@ -1,0 +1,39 @@
+LOCUS       CATRD114C                543 bp    DNA     linear   MAM 27-APR-1993
+DEFINITION  Feline endogenous retrovirus RD-114 LTR DNA.
+ACCESSION   M21158
+VERSION     M21158.1
+KEYWORDS    endogenous retrovirus; long terminal repeat (LTR).
+SOURCE      Felis catus (domestic cat)
+  ORGANISM  Felis catus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Felis.
+REFERENCE   1  (bases 1 to 543)
+  AUTHORS   Spodick,D.A., Ghosh,A.K., Parimoo,S. and Roy-Burman,P.
+  TITLE     The long terminal repeat of feline endogenous RD-114 
+  retroviral
+            DNAs: analysis of transcription regulatory activity and nucleotide
+            sequence
+  JOURNAL   Virus Res. 9 (2-3), 263-283 (1988)
+   PUBMED   2833049
+COMMENT     Original source text: Feline placenta DNA, clone EX-LTR.
+            Draft entry and computer-readable sequence [1] kindly submitted by
+            P.Roy-Burman 28-NOV-1988.
+FEATURES             Location/Qualifiers
+     source          1..543
+                     /organism="Felis catus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9685"
+ORIGIN      Unreported.
+        1 catgttatta catggggcct gccagtgaga agtcagaacc ccccaacctt tgctaacata
+       61 aataaccgct ttcatttcgc ttctgtaaaa ccgcttatgc gccccaccct aaccgctttc
+      121 atttcgcttc tgtaaaaccg cttatgcgcc ccaccctagc cggaaagtcc ccagccgtac
+      181 gcaacccggg ccccgagttg catcagccgc ttcgcaaccc gggctccgag ttgcatcagc
+      241 cgaaagaaac ttcatttccc aagcttcccc gggacgaaat tacccacaac cccaaccacc
+      301 accgagcaga gagcctatcg ccagcctgta tgcaaatgta actcaaaatg gtataaaaga
+      361 cctgtaaccc cgtttatcgg ggctctcccg ctttctaaca ctggggagcc ctggtgcacc
+      421 agtaaagact ctctgccgac gtcggagtgc cgcgtggttc tttgcgccaa ctctcattcc
+      481 atagggccta ggagtttggc tcctaacatt tggtgcattg gccgggaaac cgagggaagg
+      541 caa
+//
+

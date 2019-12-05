@@ -1,0 +1,36 @@
+LOCUS       5XZE_F                    14 bp    DNA     linear   ROD 31-OCT-2017
+DEFINITION  Chain F, Mouse Cgas Bound To The Inhibitor Ru332.
+ACCESSION   5XZE_F
+VERSION     5XZE_F
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 14)
+  AUTHORS   Vincent,J., Adura,C., Gao,P., Luz,A., Lama,L., Asano,Y.,
+            Okamoto,R., Imaeda,T., Aida,J., Rothamel,K., Gogakos,T.,
+            Steinberg,J., Reasoner,S., Aso,K., Tuschl,T., Patel,D.J.,
+            Glickman,J.F. and Ascano,M.
+  TITLE     Small molecule inhibition of cGAS reduces interferon expression in
+            primary macrophages from autoimmune mice
+  JOURNAL   Nat Commun 8 (1), 750 (2017)
+   PUBMED   28963528
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 14)
+  AUTHORS   Vincent,J., Adura,C., Gao,P., Luz,A., Lama,L., Asano,Y.,
+            Okamoto,R., Ima,T., Aida,J., Rothamel,K., Gogakos,T., Steinberg,J.,
+            Reasoner,S., Aso,K., T, Patel,D.J., Glickman,J.F. and Ascano,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2017)
+COMMENT     3 Dna (5'-d(p*cp*gp*tp*cp*tp*tp*cp*gp*gp*cp*ap*ap*tp*t)-3').
+FEATURES             Location/Qualifiers
+     source          1..14
+                     /organism="Mus musculus"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:10090"
+ORIGIN      
+        1 ngtcttcggc aatt
+//
+

@@ -1,0 +1,58 @@
+LOCUS       GR480729                 818 bp    mRNA    linear   EST 01-JAN-2010
+DEFINITION  LTY19 subtractive Library of chicken spleen 36h post-infected NDV
+            Gallus gallus cDNA clone y2, mRNA sequence.
+ACCESSION   GR480729
+VERSION     GR480729.1
+DBLINK      BioSample: SAMN00167855
+KEYWORDS    EST.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+REFERENCE   1  (bases 1 to 818)
+  AUTHORS   Lan,D.
+  TITLE     Subtractive library of chicken spleen 36h post-infected NDV
+  JOURNAL   Unpublished
+COMMENT     Contact: Daoliang Lan
+            Department of prevention veterinary
+            College of Life Science and Technology, Southwest University for
+            Nationality
+            No.16, South 4th Section, Chengdu, China
+            Tel: 86 028 85522855
+            Fax: 86 028 85528629
+            Email: supperman_lan@yahoo.com.cn
+            This is a EST from chicken spleen
+            Seq primer: M13 Forward.
+FEATURES             Location/Qualifiers
+     source          1..818
+                     /organism="Gallus gallus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9031"
+                     /clone="y2"
+                     /tissue_type="spleen"
+                     /clone_lib="SAMN00167855 subtractive Library of chicken
+                     spleen 36h post-infected NDV"
+                     /dev_stage="15-day-old chicken"
+                     /note="Screening and identification of differentially
+                     expressed genes in chicken spleen infected with Newcastle
+                     Disease Virus by suppression subtractive hybridization.
+                     breed: White Leghorn"
+ORIGIN      
+        1 acatccacgg atgaaggaga ggagaaatgt ttcaaatcag ttctaacacg aaaaccaatt
+       61 ccaagaccaa gttatgaaat taccactaag cagcagtgaa agaactacat attgaagtca
+      121 gataagaaag caagctgaag agcaagcact gggcatcttt cttgaaaaaa gtaaggccca
+      181 agtaacagac tatcagattt ttttgcagtc tttgcattcc tactagatga ttcacagaga
+      241 agatagtcac atttatcatt cgaaaacatg aaagaattcc agtcagaact tgcatttggg
+      301 ggcatgtaag tctcaaggtt gtctttttgc caatgtgctg taacattatt gcactcagag
+      361 tgtactgctg acagccactg ttctgccgaa atgacagaaa atagggaaca agagtaagca
+      421 gtttcacttc ttgtgcacaa aatgtcaact tagccgttat cttatggcct aagtgattag
+      481 cagaaataca caatcatttc tgagctgttt actgtatctg ccacagaggc agctaaattc
+      541 ccaagctatc tgaaatcatc ctctgcttcc gattctcagg gttgcctgct tatgctagaa
+      601 aggatgtttc agtctctcac agtgattttg ctgccaattt tttgttttat cttctaactc
+      661 acttcccttt aagtaatgtt ctcttttacc aggggggatg aagtgatcag gcacttttca
+      721 gtatgaagaa accaccaatc aaatatatgt tgcataattt aaacttgtgg caagggagag
+      781 actaccagta taattccatc gtgttgttta cccagtgt
+//
+
